@@ -1,7 +1,3 @@
-Got you 👍
-Here’s a clean README-ready Markdown version with proper structure and spacing — not one continuous block.
-You can paste this directly into README.md.
-
 Self-Evaluation
 For this task, I created a Stack–Heap diagram that represents the execution of the given Java program at the deepest point of the call stack (inside the shrink() method). I chose this moment because it shows all active stack frames at once, which makes it easier to demonstrate the correct method call order and all local variables.
 Depiction of Local Variables and Local References
